@@ -251,7 +251,7 @@ def main():
     user_avator = 'assets/user_new.png'
     robot_avator = 'assets/swk.png'
 
-    st.title("🐒 悟空-Chat Internlm2")
+    st.title("🐒 悟空-Chat InternLM2")
     st.caption("🚀 A streamlit chatbot powered by InternLM2 QLora")
 
     generation_config = prepare_generation_config()
